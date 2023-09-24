@@ -1,2 +1,5 @@
 # AnalyseDesTransactionFinanci-res-EffectueesSurINWIMONEY
-Analyse des Transaction financières  effectuées sur INWI MONEY using SSIS and PowerBI
+Analyse des transactions financières effectuées sur l’application INWI MONEY 
+-Conception des shémas analytiques
+-Intégration de donnés avec les ETLs (SSIS) 
+- Development d’analyses et de visualisation : création de tableau de bord interactifs sur Power BI
